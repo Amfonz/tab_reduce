@@ -4,6 +4,15 @@ bring up a list of open tabs (use tab title)
 let user select some or all all of tabs (currently opened tab not included)
 new page opens up and a list featuring title and url is created
 clicking url opens up page in a new tab
+	and removes it from the list
+	if everything is removed from the list the tab is closed
+	--------------------------------------------------------
+	other option is to store this all in a popup window
+	clicking on the toolbar icon brings up the list
+	the give the option to show in a window
+		if this window is open we have to check so as not to open more
+		just direct to this page
+
 tabs that have been reduced are closed
 
 
