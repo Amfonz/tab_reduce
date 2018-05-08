@@ -3,16 +3,21 @@
     "manifest_version" : 2,
     "name" : "tab_reduce",
     "version" : "1.0",
-    
+    "permissions" : [
+        "tabs"
+    ],
     "browser_action" : {
         "browser_style" : true,
-        "default_popup" : "popup/tab_reduce_popup.html",
         "default_icon" : {
             "48" : "icons/toolbar_icon.png"
         }
+    },
+    "background" : {
+        "scripts" : ["background.js"]
     }
-
-
+    
+    
+    
 }
 
 
