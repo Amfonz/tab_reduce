@@ -1,0 +1,23 @@
+Outline for the extension
+
+bring up a list of open tabs (use tab title)
+let user select some or all all of tabs (currently opened tab not included)
+new page opens up and a list featuring title and url is created
+clicking url opens up page in a new tab
+tabs that have been reduced are closed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
