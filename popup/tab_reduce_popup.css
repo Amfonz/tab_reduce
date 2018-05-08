@@ -1,0 +1,14 @@
+html,body{
+    width : 400px;
+}
+.contents-center{
+    margin:auto;
+}
+
+.reduce-button{
+    border:none;
+    color : white;
+    background-color: #4CAF50;
+    float:right;
+    font-size: 20pt;
+}
