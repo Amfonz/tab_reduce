@@ -6,14 +6,14 @@
 .hidden{
     display : none;
 }
-#reduce-button{
+#reduce-all-button{
     border:none;
     color : white;
     background-color: #4CAF50;
     float:right;
     font-size: 20pt;
 }
-#reduce-button:hover{
+#reduce-all-button:hover{
     color:black;
     background-color:red;
 }
