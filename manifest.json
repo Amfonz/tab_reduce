@@ -9,7 +9,7 @@
     "browser_action" : {
         "browser_style" : true,
         "default_icon" : {
-            "48" : "icons/toolbar_icon.png"
+            "48" : "icons/toolbar_icon_mod.png"
         }
     },
     "background" : {

@@ -18,3 +18,30 @@
     background-color:red;
 }
 
+.reduce-button{
+    display:block;
+}
+.link-div{
+    border-bottom: dotted;
+}
+.reduce-button{
+    border:none;
+    background-color:#4CAF50;
+    font-size:14pt;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+body{
+    background-color:#e6e8da;
+}
+.tab-titles{
+    margin-bottom: 5px;
+}
+.sheet{    
+    background-color:#e6e8da;
+    padding-left:5px;
+    height:100%;
+}
+h1{
+    text-align: center;
+}
